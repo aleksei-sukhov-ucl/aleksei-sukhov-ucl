@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-sukhov-ucl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="height:20vh;" src="https://github-readme-stats.vercel.app/api?username=aleksei-sukhov-ucl&show_icons=true&theme=radical" />
+  <img align="center" style="height:17vh;" src="https://github-readme-stats.vercel.app/api?username=aleksei-sukhov-ucl&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" style="heigth:12vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-sukhov-ucl&layout=compact&theme=radical" />
