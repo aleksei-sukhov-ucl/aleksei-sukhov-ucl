@@ -6,4 +6,4 @@
 
 #### Github Stats 📊
 
-[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=aleksei-sukhov-ucl)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=aleksei-sukhov-ucl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
