@@ -9,10 +9,15 @@
 <!-- [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=aleksei-sukhov-ucl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-sukhov-ucl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<div margin-top: 0;
+margin-right: auto;
+margin-bottom: 0;
+margin-left: auto;
+style="height:19vh";>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="height:17vh;" src="https://github-readme-stats.vercel.app/api?username=aleksei-sukhov-ucl&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aleksei-sukhov-ucl&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" style="heigth:12.1vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-sukhov-ucl&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-sukhov-ucl&layout=compact&theme=radical"/>
 </a>
+</div>
