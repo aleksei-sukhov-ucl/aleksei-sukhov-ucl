@@ -10,6 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-sukhov-ucl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 <div>
-  <img align="center" style="height: 30vh; padding:2vh;" src="https://github-readme-stats.vercel.app/api?username=aleksei-sukhov-ucl&show_icons=true&theme=radical"/>
-  <img align="center" style="height: 30vh; padding:2vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-sukhov-ucl&&langs_count=3&theme=radical"/>
+  <img align="center" style="height: 25vh; padding:2vh;" src="https://github-readme-stats.vercel.app/api?username=aleksei-sukhov-ucl&show_icons=true&theme=radical"/>
+  <img align="center" style="height: 25vh; padding:2vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-sukhov-ucl&&langs_count=3&theme=radical"/>
 </div>
