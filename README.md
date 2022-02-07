@@ -9,11 +9,7 @@
 <!-- [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=aleksei-sukhov-ucl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-sukhov-ucl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleksei-sukhov-ucl&show_icons=true&theme=radical"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-sukhov-ucl&layout=compact&theme=radical"/>
-</a>
+<div style="border: 2px solid powderblue; display: flex; flex-direction: column; vertical-align:middle;">
+  <img style="display: inline-block; margin: 2vw; flex:1;" src="https://github-readme-stats.vercel.app/api?username=aleksei-sukhov-ucl&show_icons=true&theme=radical"/>
+  <img style="display: inline-block; margin:2vw;flex:1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-sukhov-ucl&layout=compact&theme=radical"/>
 </div>
