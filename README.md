@@ -9,11 +9,7 @@
 <!-- [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=aleksei-sukhov-ucl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-sukhov-ucl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-<div margin-top: 0;
-margin-right: auto;
-margin-bottom: 0;
-margin-left: auto;
-style="height:19vh";>
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=aleksei-sukhov-ucl&show_icons=true&theme=radical"/>
 </a>
