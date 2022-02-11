@@ -13,3 +13,29 @@
   <img align="center" style="height: 25vh; padding:2vh;" src="https://github-readme-stats.vercel.app/api?username=aleksei-sukhov-ucl&show_icons=true&theme=radical"/>
   <img align="center" style="height: 25vh; padding:2vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-sukhov-ucl&&langs_count=3&theme=radical"/>
 </div>
+
+<br>
+
+### A little more about me...  
+
+```javascript
+const alex = {
+    code: ["Javascript", "Python","Dart", "Golang", "HTML", "CSS", "MySQL"],
+    askMeAbout: ["WebDev", "MobileDev", "JS", "Flutter"],
+    technologies: {
+        frontEnd: {
+            js: ["React.js", "Redux.js"],
+            dart: ["Flutter"]
+        },
+        backEnd: {
+            js: ["Node.js","Express.js"],
+            go: ["Echo"],
+            python: ["Flask"]
+        },
+        devOps: ["Azure", "Ubuntu", "Docker🐳"],
+        databases: ["MySQL", "MSSQL","PostgreSQL", "SQLite", "MongoDB"],
+        misc: ["Styled Components", "Selenium", "BeautifulSoup", "Tableau", "Celery", "JWT", "Material UI"]
+    }
+};
+```
+<br>
